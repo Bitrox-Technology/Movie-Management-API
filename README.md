@@ -26,7 +26,7 @@ A RESTful API built with Go that manages a collection of movies. This project us
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Bitrox-Technology/movie-management-api.git
+git clone https://github.com/Bitrox-Technology/Movie-Management-API.git
 cd movie-management-api
 
 The project uses the mux router. Install it using:
